@@ -6,8 +6,11 @@ subtitle: M.S. Student at Southern University of Science and Technology (SUSTech
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 1200_1500.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>E-mail: <a href="mailto:wukh2024@mail.sustech.edu.cn">wukh2024@mail.sustech.edu.cn</a></p>
+    <p>TEL: <a href="tel:+8618984175650">+86 18984175650</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false
