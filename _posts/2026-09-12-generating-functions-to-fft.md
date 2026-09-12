@@ -16,6 +16,8 @@ giscus_comments: false
 disqus_comments: false
 ---
 
+<p><a href="{{ '/assets/pdf/fft.pdf' | relative_url }}" target="_blank" rel="noopener">PDF Version</a></p>
+
 The fast Fourier transform (FFT) can initially look like a collection of clever implementation tricks. Its speed, however, comes from a deeper algebraic structure: the symmetry of roots of unity and the way that symmetry repeats at progressively smaller scales. Starting with generating functions makes this structure easier to see and leads naturally from polynomial evaluation to the discrete Fourier transform (DFT), then to the radix-2 FFT.
 
 ## 1. A Generating-Function View
